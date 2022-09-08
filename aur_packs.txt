@@ -15,11 +15,9 @@ kwin-bismuth
 logiops
 lyx
 mcomix-gtk3-git
-natron-bin
 notion-app
 onedriver
 powerdevil-ddcutil
-qpdfview
 resetmsmice
 rstudio-desktop-bin
 spotify
