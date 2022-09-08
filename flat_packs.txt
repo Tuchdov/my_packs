@@ -4,11 +4,4 @@ com.google.Chrome
 com.todoist.Todoist
 io.github.shiftey.Desktop
 org.deluge_torrent.deluge
-org.freedesktop.Platform
-org.freedesktop.Platform.GL.default
-org.freedesktop.Platform.GL.nvidia-515-65-01
-org.freedesktop.Platform.VAAPI.Intel
-org.freedesktop.Platform.openh264
-org.gnome.Platform
-org.gtk.Gtk3theme.Breeze
 us.zoom.Zoom
