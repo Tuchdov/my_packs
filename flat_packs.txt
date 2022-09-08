@@ -1,14 +1,14 @@
-Brave Browser
-Dropbox
-Google Chrome
-Todoist: To-Do List & Tasks
-GitHub Desktop
-Deluge
-Freedesktop Platform
-Mesa
-nvidia-515-65-01
-Intel
-openh264
-GNOME Application Platform version 42
-Breeze GTK theme
-Zoom
+com.brave.Browser
+com.dropbox.Client
+com.google.Chrome
+com.todoist.Todoist
+io.github.shiftey.Desktop
+org.deluge_torrent.deluge
+org.freedesktop.Platform
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.nvidia-515-65-01
+org.freedesktop.Platform.VAAPI.Intel
+org.freedesktop.Platform.openh264
+org.gnome.Platform
+org.gtk.Gtk3theme.Breeze
+us.zoom.Zoom
